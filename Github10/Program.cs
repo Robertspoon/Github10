@@ -11,6 +11,7 @@ namespace Github10
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("By Robert Atkinson");
             Console.ReadKey(true);
         }
     }
